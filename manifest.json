@@ -1,0 +1,49 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Dark Twilight",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "center top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+		"toolbar": "rgb(48, 48, 48)",
+		"toolbar_text": "rgb(0, 167, 230)",
+		"frame": "rgb(0, 0, 0)",
+		"tab_background_text": "rgb(125, 125, 125)",
+		"toolbar_field": "rgb(23, 23, 23)",
+		"toolbar_field_text": "rgb(0, 167, 230)",
+		"toolbar_field_border_focus": "rgb(0, 167, 230)",
+		"toolbar_field_highlight": "rgb(0, 167, 230)",
+		"toolbar_field_highlight_text": "rgb(23, 23, 23)",
+		"popup": "rgb(35, 35, 35)",
+		"popup_text": "rgb(0, 167, 230)",
+		"tab_loading": "rgb(0, 167, 230)",
+		"ntp_background": "rgb(48, 48, 48)",
+		"ntp_text": "rgb(0, 167, 230)",
+		"sidebar": "rgb(35, 35, 35)",
+		"sidebar_text": "rgb(0, 167, 230)",
+		"bookmark_text": "rgb(0, 167, 230)",
+		"icons_attention": "rgb(0, 167, 230)",
+		"popup_highlight": "rgb(0, 167, 230)",
+		"popup_highlight_text": "rgb(23, 23, 23)",
+		"sidebar_highlight": "rgb(0, 167, 230)",
+		"sidebar_highlight_text": "rgb(23, 23, 23)",
+		"tab_line": "rgb(35, 35, 35)",
+		"tab_selected": "rgb(48, 48, 48)",
+		"tab_text": "rgb(0, 167, 230)",
+		"toolbar_field_border": "rgb(23, 23, 23)",
+		"toolbar_top_separator": "rgb(23, 23, 23)"
+    }
+  }
+}
