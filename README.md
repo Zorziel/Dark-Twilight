@@ -50,3 +50,7 @@ If you're looking for a search engine or start page on the web that may match th
 ---
 ### [Dark Violet](https://addons.mozilla.org/en-US/firefox/addon/zorz-dark-violet/)
 ![](https://addons.cdn.mozilla.net/user-media/version-previews/full/3851/3851932.svg?modified=1623855760)
+
+---
+### [Dark Tangerine](https://addons.mozilla.org/en-US/firefox/addon/dark-tangerine/)  
+![](https://addons.cdn.mozilla.net/user-media/version-previews/full/3852/3852068.svg?modified=1623922596)
